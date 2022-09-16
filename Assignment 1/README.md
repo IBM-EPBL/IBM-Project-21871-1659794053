@@ -7,4 +7,5 @@ The project involves the use of Arduino, gas sensor, Potentiometer, buzzer, LED,
 The sensor detect any gas in its permissible range and triggers the alarm. 
 It will also send the signal to Arduino which processes the signal and set off the alarm along with detection message on display.
 
-Reference Link to view my Full Project in Tinkercad :https://www.tinkercad.com/things/j5wsovY1IaZ?sharecode=WqEliKNO13p5i5n7oWXXFb3rgrNn5zxBjaC7FNjM9tM
+Reference Link to view my Full Project in Tinkercad :
+https://www.tinkercad.com/things/j5wsovY1IaZ?sharecode=WqEliKNO13p5i5n7oWXXFb3rgrNn5zxBjaC7FNjM9tM
